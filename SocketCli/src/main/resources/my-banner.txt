@@ -1,0 +1,10 @@
+
+
+Active profile: ${spring.profiles.active}
+  ____             _        _    ____ _ _
+ / ___|  ___   ___| | _____| |_ / ___| (_)
+ \___ \ / _ \ / __| |/ / _ \ __| |   | | |
+  ___) | (_) | (__|   <  __/ |_| |___| | |
+ |____/ \___/ \___|_|\_\___|\__|\____|_|_|
+
+${spring.application.name} is running on Spring Boot ${spring-boot.version}

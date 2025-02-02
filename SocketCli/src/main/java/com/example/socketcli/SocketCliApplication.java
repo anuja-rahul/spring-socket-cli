@@ -9,5 +9,4 @@ public class SocketCliApplication {
     public static void main(String[] args) {
         SpringApplication.run(SocketCliApplication.class, args);
     }
-
 }
